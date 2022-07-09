@@ -1,1 +1,2 @@
 new dev project comment for dev3
+new project details given in dev3 file
